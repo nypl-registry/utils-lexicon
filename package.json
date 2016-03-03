@@ -1,0 +1,25 @@
+{
+  "name": "nypl-registry-utils-lexicon",
+  "version": "1.0.0",
+  "description": "All the vocabulary, labels, etc for all the fields in the registry process",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nypl-registry/utils-lexicon.git"
+  },
+  "keywords": [
+    "nypl-registry"
+  ],
+  "author": "matt miller <thisismattmiller@gmail.com> (http://twitter.com/thisismmiller)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nypl-registry/utils-lexicon/issues"
+  },
+  "homepage": "https://github.com/nypl-registry/utils-lexicon",
+  "dependencies": {
+    "glob": "^7.0.0"
+  }
+}
