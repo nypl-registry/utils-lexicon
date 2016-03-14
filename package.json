@@ -4,7 +4,7 @@
   "description": "All the vocabulary, labels, etc for all the fields in the registry process",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test"
+    "test": "standard"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/nypl-registry/utils-lexicon",
   "dependencies": {
-    "glob": "^7.0.0"
+    "glob": "^7.0.0",
+    "standard": "^6.0.7"
+  },
+  "devDependencies": {
+    "standard": "^6.0.7"
   }
 }
